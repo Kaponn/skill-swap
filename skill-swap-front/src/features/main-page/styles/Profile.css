@@ -1,0 +1,28 @@
+.profile-container {
+  margin-top: 3rem;
+  background-color: var(--primary-2);
+  padding: 1rem;
+  width: 10rem;
+  color: var(--text-1);
+  border-radius: 0 0.25rem;
+  margin-right: 4rem;
+  justify-content: center;
+}
+
+.skills-list {
+  font-size: small;
+}
+
+.chat-button {
+  color: var(--text-1);
+  background-color: var(--primary-1);
+  border: none;
+  font-size: medium;
+  border-radius: 0 0.25rem;
+  height: 2rem;
+  width: 10rem;
+}
+
+.chat-button:hover {
+  cursor: pointer;
+}
