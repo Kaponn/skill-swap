@@ -1,5 +1,15 @@
-.main-page-container {
+.main-page-header {
   margin: auto;
   display: flex;
-  justify-content: flexbox;
+  justify-content: center;
+}
+
+.main-page-container {
+  margin-left: 2%;
+  margin-top: 1%;
+}
+
+.main-page-profiles {
+  display: flex;
+  flex-wrap: wrap;
 }

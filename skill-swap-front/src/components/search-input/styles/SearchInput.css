@@ -5,3 +5,8 @@
   height: 1.75rem;
   margin: auto;
 }
+
+.search-input:focus {
+  outline: none;
+  border: 1px solid var(--primary-1);
+}
