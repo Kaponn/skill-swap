@@ -1,0 +1,13 @@
+.logo-button {
+  border: none;
+  background-color: var(--primary-1);
+  color: white;
+  font-size: larger;
+  border-radius: 0 0.25rem;
+  height: 2.5rem;
+  width: 8rem;
+}
+
+.logo-button:hover {
+  cursor: pointer;
+}

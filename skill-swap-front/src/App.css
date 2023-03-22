@@ -1,0 +1,12 @@
+:root {
+  --primary-1: #5A8A64;
+  --primary-2: #6DB5BF;
+  --background: #EDE7F6;
+  --text-1: #FFFFFF;
+  --text-2: #8C8C8C;
+  --text-background: #F5F5F5;
+  --border: #BBB5C3;
+  --error: #FF3333;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--background);
+}
