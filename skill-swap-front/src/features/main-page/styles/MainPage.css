@@ -1,0 +1,5 @@
+.main-page-container {
+  margin: auto;
+  display: flex;
+  justify-content: flexbox;
+}
