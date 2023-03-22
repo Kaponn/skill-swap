@@ -1,5 +1,5 @@
 import React from 'react';
-import './styles/LogoButton.css';
+import '../styles/LogoButton.css';
 
 export const LogoButton = () => {
   return(

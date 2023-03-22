@@ -1,6 +1,6 @@
 import React from 'react';
-import './styles/HamburgerMenu.css';
-import logo from '../../assets/hamburger-menu-24.png';
+import '../styles/HamburgerMenu.css';
+import logo from '../../../assets/hamburger-menu-24.png';
 
 export const HamburgerMenu = () => {
   return(

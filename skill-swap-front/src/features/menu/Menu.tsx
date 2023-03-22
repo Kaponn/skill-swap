@@ -1,7 +1,7 @@
 import React from 'react';
-import { HamburgerMenu } from '../../components/hamburger-menu/HamburgerMenu';
-import { LogoButton } from '../../components/logo-button/LogoButton';
-import { SearchInput } from '../../components/search-input/SearchInput';
+import { HamburgerMenu } from './components/HamburgerMenu';
+import { LogoButton } from './components/LogoButton';
+import { SearchInput } from './components/SearchInput';
 import './styles/Menu.css';
 
 export const Menu = () => {
