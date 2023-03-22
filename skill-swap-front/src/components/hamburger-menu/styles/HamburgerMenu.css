@@ -1,0 +1,9 @@
+.menu-button {
+  border: none;
+  padding: 0;
+  background-color: var(--background);
+}
+
+.menu-button:hover {
+  cursor: pointer;
+}

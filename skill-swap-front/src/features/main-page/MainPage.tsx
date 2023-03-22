@@ -3,6 +3,7 @@ import './styles/MainPage.css';
 import { LogoButton } from '../../components/logo-button/LogoButton';
 import { SearchInput } from '../../components/search-input/SearchInput';
 import { Profile } from './components/Profile';
+import { HamburgerMenu } from '../../components/hamburger-menu/HamburgerMenu';
 
 export const MainPage = () => {
   return(
@@ -10,6 +11,7 @@ export const MainPage = () => {
       <div className="main-page-header">        
       <LogoButton />
       <SearchInput />
+      <HamburgerMenu />
       </div>
       <div className="main-page-profiles">
       <Profile name="Ania" city="Kraków" skills={["playing the guitar", "English"]} wantedSkills={["playing the piano", "Spanish"]} />
