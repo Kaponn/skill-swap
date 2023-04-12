@@ -1,0 +1,67 @@
+.profile-container {
+  margin: auto;
+  margin-top: 10%;
+  width: 35%;
+  display: flex;
+}
+
+.profile-icon {
+  margin-right: 1rem;
+  margin-top: 2rem;
+  font-size: 3rem;
+}
+
+.profile-icon-container {
+  margin: auto;
+  width: 5%;
+  display: flex;
+}
+
+.profile-paragraph {
+  color: var(--text-2)
+}
+
+.profile-input {
+  border: 1px solid var(--border);
+  outline: none;
+  border-radius: 0.3rem;
+}
+
+.city {
+  height: 1.5rem;
+}
+
+.box {
+  resize: none;
+  font-size: medium;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 4rem;
+}
+
+.bio {
+  height: 12rem;
+  width: 20rem;
+}
+
+.content-container {
+  padding-right: 3rem;
+}
+
+.date-of-birth-container {
+  margin: auto;
+  display: flex;
+}
+
+.profile-button {
+    border: none;
+    background-color: var(--primary-2);
+    color: white;
+    font-size: medium;
+    border-radius: 0 0.25rem;
+    height: 1.75rem;
+    margin-bottom: 0.5rem;
+}
+
+.profile-button:hover {
+  cursor: pointer;
+}
